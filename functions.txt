@@ -1,0 +1,1 @@
+RennounceOwnership,setFee,setMaxWallet,setMaxTx,removeLiquidity,blacklist,SwapBack,setTax,rugpull,rug,honeypot,removeLimits,Owner,setDevAddress,setOWNER,
